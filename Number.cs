@@ -64,5 +64,18 @@ namespace ConsoleTesting
             }
             return result;
         }
+
+        public int Divide(int num1, int num2)
+        {
+            int result = 0;
+            try
+            {
+                result = num1 / num2;
+            }catch(Exception)
+            {
+                throw;
+            }
+            return result;
+        }
     }
 }
