@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTesting", "ConsoleTesting.csproj", "{FEDBE55D-AE3C-451B-87BA-1A473BAC45AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestingTests", "..\ConsoleTestingTests\ConsoleTestingTests.csproj", "{1B1857D5-C5DA-483D-8B32-84CB004601C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDBE55D-AE3C-451B-87BA-1A473BAC45AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDBE55D-AE3C-451B-87BA-1A473BAC45AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDBE55D-AE3C-451B-87BA-1A473BAC45AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDBE55D-AE3C-451B-87BA-1A473BAC45AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1857D5-C5DA-483D-8B32-84CB004601C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1857D5-C5DA-483D-8B32-84CB004601C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1857D5-C5DA-483D-8B32-84CB004601C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1857D5-C5DA-483D-8B32-84CB004601C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A68B336-F42F-4007-BB8B-39A3A8F9D961}
+	EndGlobalSection
+EndGlobal
